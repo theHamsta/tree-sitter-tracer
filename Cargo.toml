@@ -1,0 +1,2 @@
+[workspace]
+members = ["tree-sitter-tracer", "tree-sitter-tracer-common", "xtask"]
